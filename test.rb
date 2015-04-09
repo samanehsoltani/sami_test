@@ -6,3 +6,4 @@
 #change2 on master
 #update the master
 #woring on feature 1
+#testing reset HEAD without ~
