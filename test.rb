@@ -7,3 +7,6 @@
 #update the master
 #woring on feature 1
 #testing reset HEAD without ~
+#test combining commit1
+#test combining commit2
+#test combining commit3
